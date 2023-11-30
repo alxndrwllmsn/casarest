@@ -38,6 +38,7 @@
 #include <casacore/casa/Arrays/ArrayFwd.h>
 #include <casacore/casa/Containers/Block.h>
 #include <casacore/lattices/LatticeMath/LatticeCleaner.h>
+#include <casacore/casa/Utilities/CountedPtr.h>
 
 namespace casacore { //# NAMESPACE CASACORE - BEGIN
 
